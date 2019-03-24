@@ -8,6 +8,10 @@ html, body, .container {
   font-size: 18px;
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   text-align: justify;
 }
